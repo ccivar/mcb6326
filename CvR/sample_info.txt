@@ -1,0 +1,5 @@
+exp	cultivar	condition
+control_1	oleracea	control
+control_2	oleracea	control
+treatment_1	oleracea	infected
+treatment_2	oleracea	infected
